@@ -12,7 +12,7 @@ const projectsData = [
     description: "Skills- Next.js, Framer-Motion, CSS, Emailjs",
     image: "/Images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl:"https://github.com/pranav0823/Next.js-Portfolio-Website",
+    gitUrl:"https://github.com/pranav0823/MY_PORTFOLIO",
     previewUrl:"/"
   },
   {
