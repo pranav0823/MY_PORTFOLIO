@@ -10,7 +10,7 @@ const projectsData = [
     id: 1,
     title: "Portfolio Website",
     description: "Skills- Next.js, Framer-Motion, CSS, Emailjs",
-    image: "/images/projects/1.png",
+    image: "/Images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl:"https://github.com/pranav0823/Next.js-Portfolio-Website",
     previewUrl:"/"
@@ -19,7 +19,7 @@ const projectsData = [
     id: 2,
     title: "AI Article Summarizer",
     description: "Skills- React.js, RAPID API, JavaScript",
-    image: "/images/projects/2.png",
+    image: "/Images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl:"https://github.com/pranav0823/AI-Article-Summarizer",
     previewUrl:"https://pranav-article-summarizer.netlify.app/"
@@ -28,7 +28,7 @@ const projectsData = [
     id: 3,
     title: "AI Image Generator",
     description: "Skills- MERN Stack , React.js , Openai , MongoDB , Express.js , Node.js [Note- Try creating an Image first and Sharing it with community.]",
-    image: "/images/projects/3.png",
+    image: "/Images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl:"https://github.com/pranav0823/DALLE-CLONE",
     previewUrl:"http://pranav-ai-image-generator.netlify.app/"
@@ -37,7 +37,7 @@ const projectsData = [
     id: 4,
     title: "Virtual Keyboard and Mouse",
     description: "Skills: Python (Programming Language), Human Computer Interaction, Image Processing, Hand Gestures.",
-    image: "/images/projects/4.png",
+    image: "/Images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/pranav0823/Virtual-keyboard-and-mouse-Final-year-project-",
     previewUrl: "https://github.com/pranav0823/Virtual-keyboard-and-mouse-Final-year-project-"
@@ -46,7 +46,7 @@ const projectsData = [
     id: 5,
     title: "Three.js based 3D Sphere",
     description: "Skills- Three.js , GSAP , VITE",
-    image: "/images/projects/5.png",
+    image: "/Images/projects/5.png",
     tag: ["All", "Web"],
     gitUrl:"https://github.com/pranav0823/threejs-sphere",
     previewUrl:"https://pranav-threejs-sphere.netlify.app/"
